@@ -77,7 +77,7 @@ ML Engineer | Data Science | AI Researcher | DL
 
 ### 📻 Как связаться
 - Telegram: https://t.me/nikifor_11
-- Email: nikifortch53@gmail/com
+- Email: nikifortch53@gmail.com
 - Kaggle: https://www.kaggle.com/nikifortch
 - Leetcode: https://leetcode.com/u/Nikifor01/
 - CV: 
