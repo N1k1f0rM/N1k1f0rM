@@ -61,12 +61,12 @@ ML Engineer | Data Science | AI Researcher | DL
 ![Airflow](https://img.shields.io/badge/Airflow-17B3A3?logo=apacheairflow&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-005C84?logo=minio&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white) (Hadoop just in one touch)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?logo=apachehadoop&logoColor=white) (Hadoop few experience)
 
 #### 📲 Inferencing
 ![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-2CA5E0?logo=telegram&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Triton](https://img.shields.io/badge/Triton-7F5B93?logo=nvidia&logoColor=white) (Triton just in one touch)
+![Triton](https://img.shields.io/badge/Triton-7F5B93?logo=nvidia&logoColor=white) (Triton few experience)
 
 ---
 
